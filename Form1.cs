@@ -4,6 +4,7 @@ using System.Reflection;
 
 namespace orikes
 {
+    // F112586 Ivaylo Ivaylo Manchev - Na men mi dava problem za kirilica i ne znam dali nqma i na vas. Sujalqvam che ne e na kirilica.
     public partial class Form1 : Form
     {
         Player player;
